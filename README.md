@@ -1,6 +1,6 @@
 # 🌍 Global Economy Analysis
 
-## 📊 Introduction
+## 📊 Introduction and Abstract
 
 This project analyzes a comprehensive global economy dataset, encompassing economic indicators from various countries over several decades. The focus lies in uncovering patterns and correlations among variables such as:
 
